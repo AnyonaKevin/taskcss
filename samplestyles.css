@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(16, 22, 3);
+}
+
+.h1style{
+    color: rgb(60, 0, 128);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.images{
+    width: 90%;
+    height: 100%;
+}
+
+.subdiv{
+    float: left;
+    width: 35%;
+    height: auto;
+    border: 1px solid rgb(128, 0, 96);
+    margin-right: 5px;
+    padding-left: 10px;
+}
+
+.maindiv{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    background-color: blue;  
+}
+
+.caption{
+    color: rgb(128, 105, 0);
+    text-align: center;
+}
